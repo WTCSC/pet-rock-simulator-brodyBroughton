@@ -86,3 +86,7 @@ This is a simple educational project. Feel free to fork and modify for learning 
 ## License
 
 This project is provided as-is for educational purposes.
+
+## Flow Chart
+
+![Pet Rock Game Flow Chart](flowchart.png)
